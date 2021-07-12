@@ -1,6 +1,6 @@
-Read Excel File using Pandas
+**Read Excel File using Pandas:**
 
-In this repository. There are currently three way are mentioned to read excel file using Pandas:
+In this repository. There are currently three ways are mentioned to read excel file using Pandas:
 
 1) Directly read the excel file using pd.read()
 2) Read the excel file with excel tab name
